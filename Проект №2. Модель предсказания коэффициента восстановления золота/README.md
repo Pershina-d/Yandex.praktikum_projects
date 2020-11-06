@@ -1,7 +1,7 @@
 # Подготовка прототипа модели машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды. 
 
 ### Тех. стек: 
-Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn (make_scorer, cross_val_score, GridSearchCV, LinearRegression, DecisionTreeRegressor, RandomForestRegressor)
+Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn (Make_scorer,  GridSearchCV, LinearRegression, DecisionTreeRegressor, RandomForestRegressor)
 
 ### В процессе выполнения:
 
