@@ -3,7 +3,7 @@
 ### Тех. стек: 
 Pandas, Numpy, Spacу, Scikit-learn (TfidfVectorizer, train_test_split, GridSearchCV, Logistic Regression, LinearSVC, f1_score), LightGBM (LGBMClassifier)
 
-### В процессе выполнения:
+### Выводы:
 
 - была проведена предобработка данных: текст очищен от лишних символов, выполнена лемматизация и удаление стоп-слов английского текста;
 - была выявлена проблема дисбаланса классов и решена путем применения параметра class_weight='balanced';
